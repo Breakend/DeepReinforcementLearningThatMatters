@@ -37,3 +37,16 @@ This contains tools for significance testing which we used. And various associat
 For bootstrap-based analysis, we use the <a href="https://github.com/facebookincubator/bootstrapped">bootstrapped repo</a>. Tutorials there are a nice introduction to this sort of statistical analysis. 
 
 For t-test and KS test we use the <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html">scipy</a> <a href="https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.kstest.html">tools</a>.
+
+## Citation
+
+```
+@article{hendersonRL2017,
+   author = {{Henderson}, P. and {Islam}, R. and {Bachman}, P. and {Pineau}, J. and 
+	{Precup}, D. and {Meger}, D.},
+    title = "{Deep Reinforcement Learning that Matters}",
+  journal = {arXiv preprint arXiv:1709.06560},
+     year = 2017,
+       url={https://arxiv.org/pdf/1709.06560.pdf}
+}
+```
