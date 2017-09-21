@@ -42,8 +42,7 @@ For t-test and KS test we use the <a href="https://docs.scipy.org/doc/scipy/refe
 
 ```
 @article{hendersonRL2017,
-   author = {{Henderson}, P. and {Islam}, R. and {Bachman}, P. and {Pineau}, J. and 
-	{Precup}, D. and {Meger}, D.},
+   author = {{Henderson}, Peter and {Islam}, Riashat and {Bachman}, Philip and {Pineau}, Joelle and {Precup}, Doina and {Meger}, David},
     title = "{Deep Reinforcement Learning that Matters}",
   journal = {arXiv preprint arXiv:1709.06560},
      year = 2017,
